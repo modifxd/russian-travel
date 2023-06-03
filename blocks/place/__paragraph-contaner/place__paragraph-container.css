@@ -4,8 +4,6 @@
   display: flex;
   row-gap: 26px;
   flex-flow: column nowrap;
-  justify-self: start;
-  outline: 1px red solid;
 }
 
 @media screen and (max-width: 1279px) {
@@ -21,7 +19,7 @@
   }
 }
 
-@media screen and (max-width: 539px) {
+@media screen and (max-width: 767px) {
   .place__paragraph-container {
     width: 288px;
     justify-self: center;

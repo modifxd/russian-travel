@@ -2,10 +2,6 @@
   margin: 0;
   padding: 0;
   max-width: 460px;
-  grid-column: 1;
-  grid-row: 2;
-  justify-self: start;
-  outline: 1px red solid;
 }
 
 @media screen and (max-width: 1279px) {
@@ -20,7 +16,7 @@
   }
 }
 
-@media screen and (max-width: 539px) {
+@media screen and (max-width: 767px) {
   .place__image {
     max-width: 320px;
     grid-row: 3;

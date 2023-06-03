@@ -2,7 +2,6 @@
   margin: 92px auto;
   padding: 0;
   max-width: 984px;
-  outline: 1px red solid;
 }
 
 @media screen and (max-width: 1279px) {
@@ -14,11 +13,11 @@
 @media screen and (max-width: 1023px) {
   .places {
     max-width: 720px;
-    margin: 88px auto 90px;
+    margin: 90px auto;
   }
 }
 
-@media screen and (max-width: 539px) {
+@media screen and (max-width: 767px) {
   .places {
     max-width: 320px;
     margin: 64px auto 66px;

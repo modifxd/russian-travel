@@ -1,7 +1,8 @@
 .page {
   margin: 0 auto;
   width: 1280px;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  color: #fff;
   background-color: #2a2c2f;
 }
 
@@ -17,7 +18,7 @@
   }
 }
 
-@media screen and (max-width: 539px) {
+@media screen and (max-width: 767px) {
   .page {
     width: 320px;
   }

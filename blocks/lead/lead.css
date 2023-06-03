@@ -23,7 +23,7 @@
   }
 }
 
-@media screen and (max-width: 539px) {
+@media screen and (max-width: 767px) {
   .lead {
     margin: 48px auto 0;
     max-width: 320px;
